@@ -1,0 +1,17 @@
+#+title: Data exploration and analysis using Python
+#+author: Luís Fernando Oliveira
+
+* Brief Description
+
+The goal of this project is to explore data analysis
+and test Python libraries such as numpy, pandas,
+matplotlib and scikit_learn.
+
+** TODO Pandas
+
+Data exploration and representation
+
+** TODO Scikit_learn
+
+Explore machine learning classes, supervised and
+unsupervised models.
